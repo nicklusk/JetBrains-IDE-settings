@@ -1,0 +1,25 @@
+<application>
+  <component name="org.jetbrains.tfsIntegration.core.configuration.TFSConfigurationManager">
+    <option name="config">
+      <server uri="http://omnitfs.omnicell.com:8080/">
+        <configuration>
+          <credentials>
+            <credentials>
+              <username>nick.lusk</username>
+            </credentials>
+          </credentials>
+        </configuration>
+      </server>
+      <server uri="http://omnitfs.omnicell.com:8080/tfs/Production/">
+        <configuration>
+          <credentials>
+            <credentials>
+              <domain>OMNICELL</domain>
+              <username>nick.lusk</username>
+            </credentials>
+          </credentials>
+        </configuration>
+      </server>
+    </option>
+  </component>
+</application>

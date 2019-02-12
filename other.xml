@@ -1,0 +1,129 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Dev/rubyMineProjects/pmapatron/workingCopies/tmmComments/trunk/Project.xml" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="8.11.2" last-modified="1526410707000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="$USER_HOME$/.rbenv/versions/2.4.3/bin/ruby:BASE_20" value="0.2.3.beta2" />
+    <property name="$USER_HOME$/.rbenv/versions/2.4.3/bin/ruby:IDE" value="0.7.0.beta6" />
+    <property name="$USER_HOME$/.rbenv/versions/2.5.3/bin/ruby:BASE_20" value="0.2.3.beta2" />
+    <property name="$USER_HOME$/.rbenv/versions/2.5.3/bin/ruby:IDE" value="0.7.0.beta7" />
+    <property name="$USER_HOME$/.rvm/rubies/ruby-1.9.3-p551/bin/ruby:BASE_19" value="0.11.31" />
+    <property name="$USER_HOME$/.rvm/rubies/ruby-1.9.3-p551/bin/ruby:IDE" value="0.6.1.beta9" />
+    <property name="COMMITTED_CHANGES_FILTER_HISTORY" value="" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.46605504" />
+    <property name="ColorChooser.RecentColors" value="0-0-0-255,,,0-34-64-255,,,176-24-45-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.704" />
+    <property name="CommittedChanges.SplitterProportions.0" value="545" />
+    <property name="CommittedChanges.SplitterProportions.1" value="432" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="PostgreSQL" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="true" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="FileTemplates.CurrentTab" value="Code" />
+    <property name="FileTemplates.SelectedTemplate" value="JavaScript Implemented Method Body" />
+    <property name="InstalledPluginsSearchHistory" value="settings repository&#10;pret&#10;vibran" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="1181" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="KEYMAP" value="docu&#10;q" />
+    <property name="LAST_INJECTED_LANGUAGE" value="ECMAScript 6" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesCSS" value="false" />
+    <property name="LayoutCode.rearrangeEntriesHaml" value="false" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="PACKAGE_FILTER" value="eslint-plugin-react&#10;eslint-plugin-re&#10;eslint-p" />
+    <property name="PLUGIN_FILTER" value="sonarjs&#10;watersh3dKnuckle&#10;standard&#10;javascript&#10;st" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="RSpec.Splitter.Proportion" value="0.3465798" />
+    <property name="RSpecSupport.openFailureLine" value="false" />
+    <property name="Ruby.initialConfigurationShown" value="true" />
+    <property name="RubyMine.dumbRunEnabled" value="true" />
+    <property name="RubyMine.full.reindex.required" value="1" />
+    <property name="RubyTestUnitSupport.openFailureLine" value="false" />
+    <property name="SearchEveryWhereHistory" value="action test" />
+    <property name="SettingsSearchHistory" value="settings repository&#10;save&#10;dir&#10;log&#10;logs" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.2254642" />
+    <property name="TrendingPluginsSearchHistory" value="style&#10;sortBy:updated&#10;theme&#10;rub&#10;sortBy:name" />
+    <property name="UpdatePluginsSearchHistory" value="ruby" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="141" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.docker.view.DockerViewContribution.0" value="554" />
+    <property name="database.data.paste.format" value="format:Comma-separated (CSV)_id" />
+    <property name="evlsprt3.172" value="18" />
+    <property name="evlsprt3.173" value="13" />
+    <property name="evlsprt3.181" value="18" />
+    <property name="evlsprt3.182" value="14" />
+    <property name="evlsprt3.183" value="15" />
+    <property name="evlsprt3.RM-183.2153.13" value="12" />
+    <property name="evlsprt3.RM-183.2407.12" value="13" />
+    <property name="evlsprt3.RM-183.2635.5" value="15" />
+    <property name="evlsprt3.RM-183.2940.7" value="13" />
+    <property name="evlsprt3.RM-183.3283.7" value="19" />
+    <property name="exception.accepted.notices" value="182193a2:58c618e4" />
+    <property name="export.settings.path" value="$USER_HOME$/Projects/settings/eslint-ide/settings.jar" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/PMAP/trunk&#10;/Users/nick.lusk/DevJS/LINT/pmap-eslint-standard-style/public/javascript/src/lib&#10;/Users/nick.lusk/Dev/rubyMineProjects/10.46/10.46_release&#10;/Users/nick.lusk/DevJS/webStormProjects/10.44_release_patch_17.3.4" />
+    <property name="file.gist.reindex.count" value="144489" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="find.popup.splitter" value="0.53301126" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="js.overrides.completion" value="true" />
+    <property name="js.var.names.completion" value="false" />
+    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="857" />
+    <property name="ruby.debug.console.enabled" value="true" />
+    <property name="selected.color.option.type" value="TEXT" />
+    <property name="settings.code.style.selected.tab.CSS" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.HTML" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.SASS" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.ruby" value="Tabs and Indents" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://subversion.ateb.com/repos/pmap" />
+        <option value="https://subversion.ateb.com/repos/pmap/branches/" />
+        <option value="https://subversion.ateb.com/repos/pmap/trunk/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://subversion.ateb.com/repos/pmap/branches/dispensedQuantity/views/_sms_status.haml" />
+        <option value="https://subversion.ateb.com/repos/pmap" />
+        <option value="https://subversion.ateb.com/repos/pmap/branches/" />
+        <option value="https://subversion.ateb.com/repos/" />
+        <option value="https://subversion.ateb.com/" />
+        <option value="https://subversion.ateb.com/repos/pmap/trunk/" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="https://subversion.ateb.com/repos/pmap/branches/10.44_release">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Dev/10.44_release" />
+              <option value="$USER_HOME$/Dev/workingCopy" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

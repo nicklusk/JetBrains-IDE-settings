@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="CSScomb" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/lib/node_modules/csscomb/bin/csscomb" />
+      <option name="PARAMETERS" value="-t $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+</toolSet>

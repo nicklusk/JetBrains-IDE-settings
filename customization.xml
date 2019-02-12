@@ -1,0 +1,25 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="19">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Version Control Systems" is_group="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SubversionFilePopupGroup" is_group="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SearchEverywhere" is_action="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="SearchEverywhere" icon="$USER_HOME$/Dev/dispensedQuantity/vendor/ruby/1.9.1/gems/rdoc-3.12.2/lib/rdoc/generator/template/darkfish/images/find.png" />
+  </component>
+</application>
