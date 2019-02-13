@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>76</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -198,7 +198,7 @@
           <IdeaActionID>ReformatCode</IdeaActionID>
           <ShortCut>'⌥⌘L'</ShortCut>
           <Description>Reformat Code</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat with Prettier">
@@ -206,7 +206,7 @@
           <IdeaActionID>ReformatWithPrettierAction</IdeaActionID>
           <ShortCut>'⌥⇧⌘P'</ShortCut>
           <Description>Reformat with Prettier</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -327,6 +327,14 @@
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
           <Count>42</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Reformat File Dialog">
+        <Item>
+          <IdeaActionID>ShowReformatFileDialog</IdeaActionID>
+          <ShortCut>'⌥⇧⌘L'</ShortCut>
+          <Description>Show Reformat File Dialog</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Launch PMAP'">
