@@ -1,4 +1,8 @@
 <application>
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="Meslo LG M" />
+    <option name="SECONDARY_FONT_FAMILY" value="Source Code Pro" />
+  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
@@ -8,11 +12,7 @@
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
   </component>
-  <component name="LiveEditOptions">
-    <option name="elementHighlighting" value="false" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>

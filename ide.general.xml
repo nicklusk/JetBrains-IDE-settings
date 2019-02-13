@@ -7,5 +7,6 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
+    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>
