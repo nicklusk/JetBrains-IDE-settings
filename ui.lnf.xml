@@ -1,7 +1,4 @@
 <application>
-  <component name="DependencyUISettings">
-    <option name="UI_SHOW_FILES" value="false" />
-  </component>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="99" />
@@ -9,11 +6,9 @@
     <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="29" />
-    <option name="MAX_LOOKUP_WIDTH2" value="593" />
-    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="MAX_LOOKUP_WIDTH2" value="905" />
     <option name="SHOW_CLOSE_BUTTON" value="false" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
-    <option name="SHOW_TABS_TOOLTIPS" value="false" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
   </component>
 </application>
