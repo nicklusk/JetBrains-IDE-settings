@@ -30,7 +30,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'⌘W'</ShortCut>
           <Description>Close</Description>
-          <Count>120</Count>
+          <Count>121</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -54,7 +54,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy...">
@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>78</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
