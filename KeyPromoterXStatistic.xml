@@ -25,14 +25,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Close">
-        <Item>
-          <IdeaActionID>CloseContent</IdeaActionID>
-          <ShortCut>'⌘W'</ShortCut>
-          <Description>Close</Description>
-          <Count>121</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
@@ -94,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>97</Count>
+          <Count>103</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -407,6 +399,16 @@
           <ShortCut>'⌘+' or '⌘='</ShortCut>
           <Description>Zoom In</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Close">
+        <Item>
+          <IdeaActionID>CloseContent</IdeaActionID>
+          <ShortCut>'⌘W'</ShortCut>
+          <Description>Close</Description>
+          <Count>123</Count>
         </Item>
       </Statistic>
     </option>
