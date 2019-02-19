@@ -1,21 +1,17 @@
-<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-02-19T11:40:46</property>
+    <property name="created">2019-02-19T11:48:30</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2018.3.4.0.0</property>
     <property name="modified">2019-02-19T12:07:20</property>
-    <property name="originalScheme">Darcula</property>
+    <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_COPIED" value="c3e88d" />
-    <option name="FILESTATUS_HIJACKED" value="" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
-    <option name="FILESTATUS_OBSOLETE" value="" />
     <option name="FILESTATUS_RENAMED" value="3a8484" />
-    <option name="FILESTATUS_SUPPRESSED" value="" />
-    <option name="FILESTATUS_SWITCHED" value="" />
   </colors>
   <attributes>
     <option name="HTML_CODE">
@@ -34,6 +30,9 @@
         <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="TEXT">
+      <value />
     </option>
   </attributes>
 </scheme>
