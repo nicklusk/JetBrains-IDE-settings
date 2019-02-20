@@ -2,8 +2,8 @@
   <component name="GrepConsole">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="3" />
-        <option name="firstUsage" value="1546540935333" />
+        <option name="actionsExecuted" value="5" />
+        <option name="firstUsage" value="0" />
         <option name="firstUsedVersion" value="8.5.162.000.1" />
       </DonationNagger>
     </option>
@@ -115,6 +115,11 @@
           <option name="name" value="default" />
         </Profile>
       </list>
+    </option>
+    <option name="tailSettings">
+      <TailSettings>
+        <option name="enabled" value="true" />
+      </TailSettings>
     </option>
     <option name="version" value="1" />
   </component>
