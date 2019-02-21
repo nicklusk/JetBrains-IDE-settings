@@ -1,0 +1,22 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ateb 01" uuid="542c1c1c-dd95-40f4-a6c5-1641abbbbddc">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://db-dev-01.twa.ateb.com:5432/ateb</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="ATEBMART 06" uuid="3161d3c8-ed48-426b-8f25-90127a15bc9a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://db-dev-01.twa.ateb.com:5432/ATEBMART</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="reporting 05" uuid="bdb5fbb1-8829-4a91-8448-e2c142c1b571">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://db-dev-01.twa.ateb.com:5432/reporting</jdbc-url>
+    </data-source>
+  </component>
+</application>

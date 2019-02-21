@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Launch PMAP'">
@@ -86,7 +86,23 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>125</Count>
+          <Count>126</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Duplicate">
+        <Item>
+          <IdeaActionID>DatabaseView.CopyAction</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Duplicate</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Execute">
+        <Item>
+          <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
+          <ShortCut>'⌘⏎'</ShortCut>
+          <Description>Execute</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -129,6 +145,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Jump to Console...">
+        <Item>
+          <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
+          <ShortCut>'⇧⌘F10'</ShortCut>
+          <Description>Jump to Console...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="New Scratch File">
         <Item>
           <IdeaActionID>NewScratchFile</IdeaActionID>
@@ -142,6 +166,14 @@
           <IdeaActionID>NewElement</IdeaActionID>
           <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
           <Description>New...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open Console">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor</IdeaActionID>
+          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <Description>Open Console</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -183,6 +215,14 @@
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Properties">
+        <Item>
+          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
+          <ShortCut>'⌘I'</ShortCut>
+          <Description>Properties</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recent Files">
@@ -326,7 +366,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Reformat File Dialog">
@@ -335,6 +375,14 @@
           <ShortCut>'⌥⇧⌘L'</ShortCut>
           <Description>Show Reformat File Dialog</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Source Editor">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor.DDL</IdeaActionID>
+          <ShortCut>'⌘B'</ShortCut>
+          <Description>Source Editor</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Launch PMAP'">
@@ -366,7 +414,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -398,7 +446,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>123</Count>
+          <Count>124</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
