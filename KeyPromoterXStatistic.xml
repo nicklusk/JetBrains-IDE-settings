@@ -86,7 +86,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Launch PMAP'">
@@ -126,7 +126,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌘3'</ShortCut>
           <Description>Find</Description>
-          <Count>108</Count>
+          <Count>109</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -310,7 +310,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>189</Count>
+          <Count>210</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
