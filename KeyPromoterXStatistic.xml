@@ -294,7 +294,7 @@
           <IdeaActionID>ReformatWithPrettierAction</IdeaActionID>
           <ShortCut>'⌥⇧⌘P'</ShortCut>
           <Description>Reformat with Prettier</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
@@ -430,7 +430,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>46</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Reformat File Dialog">
